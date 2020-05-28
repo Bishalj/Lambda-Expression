@@ -1,8 +1,9 @@
 package predicate;
 
+import java.io.Serializable;
 import java.util.function.Predicate;
 
-public class PredicateFI {
+public class PredicateFI implements Serializable, Cloneable {
 
     static Predicate<Integer> isValueEven = i -> i%2 == 0;
     static Predicate<Integer> isDivisibleByFive = i -> i%5 == 0;

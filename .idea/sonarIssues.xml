@@ -3,12 +3,287 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Calculator/src/main/java/com/service/AtmApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Calculator/src/main/java/com/service/AtmRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Calculator/src/main/java/com/service/CalculatorServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Calculator/src/test/java/com/service/AtmApplicationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Calculator/src/test/java/com/service/CalculatorServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/app/dao/elastic/PolicyIssuanceElasticDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/app/models/policyDetail/PolicyIssuance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/conf/routes">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/opslocationtodplocation/dao/IOpsLocationToDpBranchLocationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/opslocationtodplocation/dao/impl/OpsLocationToDpBranchLocationDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/api/IssuanceCustomResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/api/PolicyIssuanceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/constants/PolicyIssuanceConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/dao/AbstractElasticDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/dao/PolicyIssuanceElasticDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/services/PolicyIssuanceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/crons/CronIdentifyRenewalPoliciesFromMIS.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/models/elastic/EPolicyEntries.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/models/general/SearchCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/services/dao/elastic/EPolicyEntriesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/services/searchfilter/RenewalSearchFilterServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/controller/PolicyAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/impl/PolicyDetailsDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/elastic/AbstractPolicyElasticDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/elastic/CustomAnalyzerProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/elastic/PolicyDetailElasticDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/login/service/impl/HistoryTurtleAdminUserServiceServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/ElasticSearchPolicyDetailsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/PolicyDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/conf/application.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/conf/routes">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/decentralisedrules/services/impl/DecentralisationRulesDerivationServiceImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle-beans/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle-beans/src/main/java/com/turtle/beans/models/policyissuance/PolicyIssuance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle_ansible/v2/roles/build-tm-services/play/templates/ninja-service-backend/application.prod.conf.j2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle_ansible/v2/roles/build-tm-services/play/templates/ninja-service-backend/application.stage.conf.j2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle_ansible/v2/roles/build-tm-services/play/templates/ninja-service-backend/production.stage.conf.j2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle_ansible/v2/vars/turtlemint/common_prod_constants.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/consumer/ConsumerFunctionalInterface.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Amazon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Citrix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Digicert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Dunzo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/DunzoPalindrome.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/IShop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Incubyte.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Leucine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Nuance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/ShopSe.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/ShopSeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/ShopSeService2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/practic/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/predicate/PredicateFI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
