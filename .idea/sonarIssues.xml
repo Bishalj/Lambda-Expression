@@ -48,6 +48,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/operators/OperatorsExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/practic/Amazon.java">
           <value>
             <set />
@@ -129,6 +134,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/predicate/Student.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/services/dao/elastic/EPolicyEntriesServiceImpl.java">
           <value>
             <set />
           </value>
