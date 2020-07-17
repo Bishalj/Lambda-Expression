@@ -21,6 +21,5 @@ public class ConsumerFunctionalInterface {
                 .accept(2,5)
 
         ;
-
     }
 }

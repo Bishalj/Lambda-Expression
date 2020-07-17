@@ -16,4 +16,6 @@ public class PredicateFI implements Serializable, Cloneable {
         System.out.println(isValueEven.negate().and(isDivisibleByFive).test(10));
         System.out.println(isValueEven.or(isDivisibleByFive).test(8));
     }
+
+
 }
