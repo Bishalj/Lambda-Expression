@@ -48,6 +48,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/method/reference/MethodReferenceExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/operators/OperatorsExample.java">
           <value>
             <set />
@@ -138,7 +143,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/supplier/SupplierExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/services/dao/elastic/EPolicyEntriesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/policy/duplicate/services/impl/DuplicatePolicyCheckServiceImpl.java">
           <value>
             <set />
           </value>
