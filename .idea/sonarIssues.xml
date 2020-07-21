@@ -158,6 +158,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/QCServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/conf/application.conf">
           <value>
             <set />
