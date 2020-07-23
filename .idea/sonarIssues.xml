@@ -148,7 +148,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/dao/AbstractElasticDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/dao/PolicyIssuanceElasticDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/mappers/PaginatedResults.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/mappers/PolicyIssuanceElasticMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/repositories/IPolicyIssuanceRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/repositories/PolicyIssuanceRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/services/impl/PolicyIssuanceElasticServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/services/dao/elastic/EPolicyEntriesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/config/ElasticRestClientConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/login/service/impl/TurtleAdminUserServiceImpl.java">
           <value>
             <set />
           </value>
@@ -159,6 +204,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/QCServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/PolicyDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ProjectRepoBackend/ninja-service/turtlemint/app/logger/MDCPropagatingDispatcher.java">
           <value>
             <set />
           </value>
